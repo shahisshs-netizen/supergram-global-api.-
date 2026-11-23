@@ -1,0 +1,12 @@
+{
+  "name": "supergram-global-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-22",
+  "compatibility_flags": ["nodejs_compat"],
+  "hyperdrive": [
+    {
+      "binding": "HYPERDRIVE",
+      "id": "f76fa3fa621b4f2cbddc13584e4f36b4"
+    }
+  ]
+}
