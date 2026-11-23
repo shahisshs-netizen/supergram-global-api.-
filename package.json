@@ -2,7 +2,7 @@
   "name": "supergram-global-api",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
+  "type": "moduLe",
   "scripts": {
     "deploy": "wrangler deploy"
   },
