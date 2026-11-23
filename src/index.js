@@ -1,4 +1,4 @@
-stgres';
+      stgres';
 
 const json = (data, status = 200) => new Response(JSON.stringify(data), {
   status,
@@ -589,4 +589,4 @@ async function handle(request, env) {
 
 export default {
   fetch(request, env) {
-    return handle(request, env      
+    return handle(request, env
