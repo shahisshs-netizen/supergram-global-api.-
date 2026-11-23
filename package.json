@@ -1,0 +1,15 @@
+{
+  "name": "supergram-global-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "postgres": "^3.4.9"
+  },
+  "devDependencies": {
+    "wrangler": "^4.166.0"
+  }
+}
